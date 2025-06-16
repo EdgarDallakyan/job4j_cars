@@ -124,5 +124,4 @@ public class UserRepository {
             return Optional.ofNullable(query.uniqueResult());
         }
     }
-
 }
