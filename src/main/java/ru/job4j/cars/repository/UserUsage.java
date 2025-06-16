@@ -36,4 +36,5 @@ public class UserUsage {
             StandardServiceRegistryBuilder.destroy(registry);
         }
     }
+
 }
